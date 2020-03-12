@@ -49,4 +49,4 @@ async def test(ctx):
 
 
 # 取得したトークンを「TOKEN_HERE」の部分に記入
-bot.run('token')
+bot.run(token)
